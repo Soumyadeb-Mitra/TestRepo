@@ -1,7 +1,4 @@
 This is Change 1
 This is Change 2
-<<<<<<< HEAD
 Change on master branch
-=======
 Change in idea branch
->>>>>>> idea
